@@ -1,0 +1,4 @@
+temp
+*.lock
+__pycache__
+*.pdf
