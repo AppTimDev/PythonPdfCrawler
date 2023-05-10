@@ -1,4 +1,7 @@
-# Project Python
+## Objectives
+use python script to crawl the webpage to extract all the links and then download all the pdf files.
+
+The demo link (https://apptimdev.bsite.net/Home/Pdf) in the main.py is used to provide a webpage for the python scripts to crawl. This link is hosted using the source codes in the [project repository](#demo-reference-source). This link may not work in the future. 
 
 ---
 
@@ -119,8 +122,9 @@ pipenv  --rm
 ---
 
 ## Related Projects or References
-pipenv
+### pipenv
 - https://github.com/AppTimDev/PythonVenv
 
+### Demo Reference Source 
 Crawler Pdf Webpage
 - https://github.com/AppTimDev/PdfCrawlerCoreMvc
